@@ -1,4 +1,4 @@
-# CGPA-calculaor
+# CGPA-calculator
 
 #include <iostream>
 using namespace std;
